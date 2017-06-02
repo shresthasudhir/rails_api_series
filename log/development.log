@@ -191,3 +191,5 @@ Processing by Api::V1::LocationsController#show as HTML
 Completed 200 OK in 79ms (Views: 49.4ms | ActiveRecord: 2.2ms)
 
 
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from env_config at /Users/shresthasudhir/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/application.rb:246)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from env_config at /Users/shresthasudhir/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/application.rb:246)
